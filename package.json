@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/BlaineOmega/basicCRUD/issues"
   },
-  "homepage": "https://github.com/BlaineOmega/basicCRUD#readme"
+  "homepage": "https://github.com/BlaineOmega/basicCRUD#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }

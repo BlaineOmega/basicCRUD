@@ -1,0 +1,19 @@
+{
+  "name": "promise_me",
+  "version": "1.0.0",
+  "description": "SDK to support the Promise Me applicaton.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlaineOmega/basicCRUD.git"
+  },
+  "author": "Blaine Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlaineOmega/basicCRUD/issues"
+  },
+  "homepage": "https://github.com/BlaineOmega/basicCRUD#readme"
+}
